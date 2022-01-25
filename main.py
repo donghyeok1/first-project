@@ -155,3 +155,6 @@ if __name__ == '__main__':
         sys.exit(app.exec_())
     except SystemExit:
         print('player Window Closed')
+
+
+#깃허브 테스트
