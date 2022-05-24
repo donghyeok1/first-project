@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/c/mediapipe_repo/mediapipe/mediapipe/examples/android/solutions/facedetection/libs/YoutubeAndroidPlayerApi.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/facedetection/libs/YoutubeAndroidPlayerApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

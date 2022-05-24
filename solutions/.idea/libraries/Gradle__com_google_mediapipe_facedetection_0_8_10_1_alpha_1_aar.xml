@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mediapipe:facedetection:0.8.10.1-alpha-1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/364cf232836e5ee737d176c7c77e969d/transformed/facedetection-0.8.9-alpha-5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/364cf232836e5ee737d176c7c77e969d/transformed/facedetection-0.8.9-alpha-5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/364cf232836e5ee737d176c7c77e969d/transformed/facedetection-0.8.9-alpha-5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
